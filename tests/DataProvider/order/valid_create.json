@@ -1,0 +1,10 @@
+{
+  "userId": 1,
+  "orderDetails": [
+    {
+      "product": "apa minerala",
+      "price": 10.91,
+      "quantity": 2
+    }
+  ]
+}

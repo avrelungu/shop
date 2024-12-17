@@ -1,0 +1,9 @@
+### GET request to example server
+GET http://localhost:8000
+
+### orders_create
+POST http://localhost:8000/orders
+< ../tests/DataProvider/order/valid_create.json
+
+### GET request to get orders of user
+GET http://localhost:8000/users/2/orders
